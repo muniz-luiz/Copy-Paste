@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\bin\Debug\net7.0\CopyPaste.exe
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\bin\Debug\net7.0\CopyPaste.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\bin\Debug\net7.0\CopyPaste.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\bin\Debug\net7.0\CopyPaste.dll
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\bin\Debug\net7.0\CopyPaste.pdb
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.dll
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\refint\CopyPaste.dll
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.pdb
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\CopyPaste.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\CopyPaste\CopyPaste\obj\Debug\net7.0\ref\CopyPaste.dll
